@@ -760,4 +760,14 @@ margin-top: 160px;
   width: 300px;
   margin: auto;
 }
+
+}
+
+@media screen and (max-width:1300px) {
+  .hero-banner-image{
+    display: none;
+  }
+  .footer-banner-image{
+    display: none;
+  }
 }
